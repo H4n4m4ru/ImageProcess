@@ -1,0 +1,10 @@
+C:\Users\ASUS\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\bin\Release\ImageProcess.exe.config
+C:\Users\ASUS\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Release\ImageProcess.exe
+C:\Users\ASUS\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Release\ImageProcess.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\bin\Release\ImageProcess.exe
+C:\Users\ASUS\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\bin\Release\ImageProcess.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Release\ImageProcess.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Release\ImageProcess.ImageProcessMachine.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Release\ImageProcess.HanaHistogram.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Release\ImageProcess.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Release\ImageProcess.csproj.GenerateResource.Cache
