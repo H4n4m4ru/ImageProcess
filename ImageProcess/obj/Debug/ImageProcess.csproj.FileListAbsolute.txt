@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\bin\Debug\ImageProcess.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\bin\Debug\ImageProcess.exe
+c:\users\asus\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\bin\Debug\ImageProcess.pdb
+c:\users\asus\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Debug\ImageProcess.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Debug\ImageProcess.ImageProcessMachine.resources
+c:\users\asus\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Debug\ImageProcess.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Debug\ImageProcess.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Debug\ImageProcess.exe
+c:\users\asus\documents\visual studio 2013\Projects\ImageProcess\ImageProcess\obj\Debug\ImageProcess.pdb
